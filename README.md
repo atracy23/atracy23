@@ -13,15 +13,15 @@
 <h2><b>Software Development Projects:</b></h2>
 <ol>
   <li>Moffat Bay Lodge Project
-    <li>Java, JavaScript, MySQL, JDBC, HTML, CSS, Eclipse, Apache Tomcat server, GitHub</li>
-    <li>Group Project
-      <ul>Pages: Registration, Resevervation, Lookup</ul>
-      <ul>Areas: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</ul>
-    </li>
+      <li>Java, JavaScript, MySQL, JDBC, HTML, CSS, Eclipse, Apache Tomcat server, GitHub</li>
+      <li>Group Project
+          <ul>Pages: Registration, Resevervation, Lookup</ul>
+          <ul>Areas: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</ul>
+      </li>
   </li>
   <li>Softball Pitchers Project
-    <li>PHP, MySQL, XAMPP server, HTML, CSS, VS Code</li>
-    <li>Individual Project</li>
+      <li>PHP, MySQL, XAMPP server, HTML, CSS, VS Code</li>
+      <li>Individual Project</li>
   </li>
 </ol>
 
