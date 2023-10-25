@@ -30,6 +30,12 @@
       <li>Individual Project</li>
     </ul>
   </li>
+  <li>BioSite Project
+    <ul>
+      <li>HTML, CSS, VS Code</li>
+      <li>Individual Project</li>
+    </ul>
+  </li>
   </ul>
 </ol>
 
