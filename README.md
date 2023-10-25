@@ -18,8 +18,8 @@
       <li>Java, JavaScript, MySQL, JDBC, HTML, CSS, Eclipse, Apache Tomcat server, GitHub</li>
       <li>Group Project
         <ul>
-          <li>/tPages: Registration, Resevervation, Lookup</li>
-          <li>/tAreas: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</li>
+          <li>Pages: Registration, Resevervation, Lookup</li>
+          <li>Areas: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</li>
         </ul>
       </li>
     </ul>
