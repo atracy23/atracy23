@@ -19,7 +19,7 @@
       <li>Group Project
         <ul>
           <li>Pages: Registration, Resevervation, Lookup</li>
-          <li>Areas: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</li>
+          <li>Skills: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</li>
         </ul>
       </li>
     </ul>
@@ -32,8 +32,18 @@
   </li>
   <li>BioSite Project
     <ul>
-      <li>HTML, CSS, VS Code</li>
+      <li>HTML, CSS, IntelliJ</li>
       <li>Individual Project</li>
+    </ul>
+  </li>
+  <li>Bacchus Winery Project
+    <ul>
+      <li>Python, MySQL, PyCharm</li>
+      <li>Group Project</li>
+      <ul>
+          <li>Area: Distribution</li>
+          <li>Skills: ERD, Wireframes, Database Management</li>
+        </ul>
     </ul>
   </li>
   </ul>
