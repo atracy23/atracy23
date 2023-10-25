@@ -11,16 +11,19 @@
 </ul>
 
 <h2><b>Software Development Projects:</b></h2>
-<ul>
-  <li>Moffat Bay Lodge Project</li>
+<ol>
+  <li>Moffat Bay Lodge Project
     <li>Java, JavaScript, MySQL, JDBC, HTML, CSS, Eclipse, Apache Tomcat server, GitHub</li>
-    <li>Group Project</li>
+    <li>Group Project
       <li>Pages: Registration, Resevervation, Lookup</li>
       <li>Areas: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</li>
-  <li>Softball Pitchers Project</li>
+    </li>
+  </li>
+  <li>Softball Pitchers Project
     <li>PHP, MySQL, XAMPP server, HTML, CSS, VS Code</li>
     <li>Individual Project</li>
-</ul>
+  </li>
+</ol>
 
 <h2><b>Education:</b></h2>
 <h3><b>Bellevue University</b></h3>
