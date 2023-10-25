@@ -15,8 +15,8 @@
   <li>Moffat Bay Lodge Project
     <li>Java, JavaScript, MySQL, JDBC, HTML, CSS, Eclipse, Apache Tomcat server, GitHub</li>
     <li>Group Project
-      <li>Pages: Registration, Resevervation, Lookup</li>
-      <li>Areas: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</li>
+      <ul>Pages: Registration, Resevervation, Lookup</ul>
+      <ul>Areas: ERD, Wireframes, CSS, Front-end, Back-end, Database Management</ul>
     </li>
   </li>
   <li>Softball Pitchers Project
