@@ -38,7 +38,7 @@
   </li>
   <li>Bacchus Winery Project
     <ul>
-      <li>Python, MySQL, PyCharm</li>
+      <li>Python, MySQL, PyCharm, MySQL Workbench</li>
       <li>Group Project</li>
       <ul>
           <li>Area: Distribution</li>
